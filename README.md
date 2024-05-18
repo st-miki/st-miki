@@ -7,4 +7,3 @@ About Me<br>
 🎓 Education:Addis Ababa Science and Technology University<br>
 🌍 Location: Addis Ababa, Ethiopia<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=st-miki&show_icons=true&theme=transparent)
